@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="fav1">Fav</string>
+    <string name="fav2">NotFav</string>
+</resources>
